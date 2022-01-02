@@ -1,0 +1,6 @@
+string test = "this is a string"
+output test
+test != 7 * 9.3
+repeat 3 times
+	output "Quorum"
+end
