@@ -1,7 +1,0 @@
-else blueprint 
-if detect check 
-public boolean not 
-} @ end boolean 
- ' 
-~ until @ = # blueprint 
-@ private while 
